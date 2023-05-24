@@ -13,7 +13,7 @@ Para criar o laboratório é necessário fazer o `git clone` desse repositório 
 
 ```bash
 git clone https://github.com/alissonoliveira0607/Devops-MariaDB-Provisioner.git
-cd 527/
+cd Devops-MariaDB-Provisioner/
 vagrant up
 ```
 
