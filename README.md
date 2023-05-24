@@ -7,7 +7,7 @@ Para a criação do laboratório é necessário ter pré instalado os seguintes 
 * [VirtualBox]
 * [Vagrant]
 
-> **²**: Para o Script de Provisionamento estamos utilizando Shell Script
+> Para rovisionamento estamos utilizando Shell Script
 
 Para criar o laboratório é necessário fazer o `git clone` desse repositório e, dentro da pasta baixada realizar a execução do `vagrant up`, conforme abaixo:
 
@@ -35,5 +35,7 @@ Comandos                | Descrição
 
 
 =======================
+
     Alisson Oliveira
+
 =======================
